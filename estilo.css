@@ -1,0 +1,63 @@
+
+body {
+    background: linear-gradient(135deg, #141e30, #243b55);
+    font-family: Arial, sans-serif;
+    color: white;
+    text-align: center;
+    margin: 0;
+    padding: 40px;
+}
+
+header {
+    padding: 20px;
+}
+
+.titulo {
+    font-size: 40px;
+    color: #ffd166;
+    animation-duration: 2s;
+    animation-delay: 1s;
+    animation-iteration-count: 4;
+}
+
+.texto {
+    font-size: 20px;
+    margin: 30px;
+    animation-duration: 2s;
+    animation-delay: 2s;
+    animation-iteration-count: 4;
+}
+
+.cuadro {
+    background-color: #06d6a0;
+    color: #14213d;
+    padding: 25px;
+    width: 220px;
+    margin: 40px auto;
+    border-radius: 15px;
+    font-size: 20px;
+    font-weight: bold;
+    animation-duration: 1s;
+    animation-iteration-count: 5;
+    animation-delay: 1s;
+}
+
+.despedida {
+    font-size: 28px;
+    color: #ffd166;
+    margin-top: 50px;
+    animation-duration: 2s;
+    animation-delay: 3s;
+    animation-iteration-count: 4;
+}
+
+.salida {
+    background-color: #ef476f;
+    padding: 20px;
+    width: 180px;
+    margin: 40px auto;
+    border-radius: 10px;
+    animation-duration: 2s;
+    animation-delay: 2s;
+    animation-iteration-count: 5;
+}
